@@ -1,0 +1,1 @@
+{"name":"Local: vector","url":"c:\\Coding\\Problem_Solving\\String\\vector.cpp","tests":[{"id":1786726581124,"input":"5\n1 6 10 8 4","output":"1 4 6 8 10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Coding\\Problem_Solving\\String\\vector.cpp","group":"local","local":true}
