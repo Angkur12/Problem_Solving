@@ -1,1 +1,0 @@
-{"name":"Local: vector-erase","url":"c:\\Coding\\Problem_Solving\\String\\vector-erase.cpp","tests":[{"id":1786728203995,"input":"6\n1 4 6 2 8 9\n2\n2 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Coding\\Problem_Solving\\String\\vector-erase.cpp","group":"local","local":true}
