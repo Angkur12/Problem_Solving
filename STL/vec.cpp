@@ -2,15 +2,13 @@
 using namespace std;
 
 int main()  {
-  vector<int> vec;
-  vec.push_back(1);
-  vec.push_back(2);
-  vec.push_back(3);
+  vector<int> vec = {1,2,3,4,5};
 
-  for(int val: vec) {
-    cout<<val<<" ";
+  vector<int>::iterator it;
+
+  for(it = vec.begin(); it != vec.end(); it++) {
+    cout<<*it<<" ";
   }
-  cout<<endl; 
 
-  cout<<vec.capacity()<<endl;
+  // cout<<*(vec.end())<<endl;
 }
